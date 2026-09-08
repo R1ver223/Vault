@@ -1,0 +1,42 @@
+* {background-color: #1a1a1a;
+}
+a {
+    text-decoration: none;
+}
+.navbar {
+    padding: 1rem 2rem;
+    width: 100%;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+}
+
+.logo-text {
+    color: #4dbac7; 
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0;
+}
+
+
+.nav-icon {
+    width: 28px;
+    height: 28px;
+}
+
+.profile-square {
+    width: 30px;
+    height: 30px;
+    background-color: #d9d9d9; 
+}
